@@ -6,4 +6,6 @@ A donut script in python using 1-liner code from [Julius Syvis's DonutPy](https:
 
 ## [DonutSeaLife](https://github.com/RusMermaid/DonutLife/blob/main/DonutSeaLife/main.c)
 
+## [DonutOceanLife](https://github.com/RusMermaid/DonutLife/blob/main/DonutOceanLife/main.cpp)
+
 ## [DonutJazzLife](https://github.com/RusMermaid/DonutLife/blob/main/DonutJazzLife/main.js)
