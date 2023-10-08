@@ -1,7 +1,7 @@
 # DonutLife
 Creation Donuts in different languages!
 
-#Full Donuts
+# Full Donuts
 Donut code creates an ASCII donut
 
 ## [DonutSeaLife](https://github.com/RusMermaid/DonutLife/blob/main/Donuts/DonutSeaLife/main.c)
@@ -12,7 +12,7 @@ Donut code creates an ASCII donut
 
 ## [DonutPyLife](https://github.com/RusMermaid/DonutLife/blob/main/Donuts/DonutPyLife/main.py)
 
-#Half Donuts
+# Half Donuts
 Normal code creates an ASCII donut
 
 ## [HalfDonutFameLife](https://github.com/RusMermaid/DonutLife/blob/main/HalfDonuts/HalfDonutFameLife/main.f10)
