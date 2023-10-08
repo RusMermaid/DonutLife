@@ -20,3 +20,7 @@ Normal code creates an ASCII donut
 ## [HalfDonutJailLife](https://github.com/RusMermaid/DonutLife/blob/main/HalfDonuts/HalfDonutJailLife/main.java)
 
 ## [HalfDonutSharpLife](https://github.com/RusMermaid/DonutLife/blob/main/HalfDonuts/HalfDonutSharpLife/main.cs)
+
+## [HalfDonutArrowLife](https://github.com/RusMermaid/DonutLife/blob/main/HalfDonuts/HalfDonutArrowLife/main.dart)
+
+## [HalfDonutGoLife](https://github.com/RusMermaid/DonutLife/blob/main/HalfDonuts/HalfDonutGoLife/main.go)
